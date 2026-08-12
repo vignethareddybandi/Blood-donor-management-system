@@ -1,0 +1,17 @@
+==============================
+   BLOOD DONOR MANAGEMENT
+==============================
+1. Add Donor
+2. View All Donors
+3. Search by Blood Group
+4. Remove Donor
+5. Exit
+
+Enter your choice: 1
+
+Enter donor name: Vignetha
+Enter blood group: AB+
+Enter phone number: ***********
+
+Donor added successfully!
+Donor ID: 1
